@@ -1,0 +1,5 @@
+$ git add .github/workflows/release-package.yml
+# Also add the file you created or edited in the previous step.
+$ git add .npmrc or package.json
+$ git commit -m "workflow to publish package"
+$ git push
